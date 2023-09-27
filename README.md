@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeoffreyAnquetil and I'm studying AI and Cybersecurity at ENSSAT (advanced national college of applied science and technology)
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Object Oriented programming
+- 🌱 I’m currently learning Object Oriented programming ande code testing
 - 📫 How to reach me :
   - Student @ : geanqueti@enssat.fr 
   - Personnal @ : geoffrey.anquetil1@gmail.com
