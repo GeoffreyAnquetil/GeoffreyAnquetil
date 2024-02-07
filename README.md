@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning Object Oriented programming ande code testing
 - 📫 How to reach me :
-  - Student @ : geanqueti@enssat.fr 
+  - Student @ : ganqueti@enssat.fr 
   - Personnal @ : geoffrey.anquetil1@gmail.com
 <!---
 GeoffreyAnquetil/GeoffreyAnquetil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
